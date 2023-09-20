@@ -1,0 +1,10 @@
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.frmTulisanBerjalan.resources
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb
+D:\Semester 3\Pemrograman Lanjut\AplikasiSelamatDatang\TulisanBerjalan\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.AssemblyReference.cache
